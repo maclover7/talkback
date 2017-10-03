@@ -1,0 +1,18 @@
+GIT
+  remote: https://github.com/maclover7/macluster-deploy
+  revision: 9bf212305b03651f9088b1224095d7a5cf15363c
+  specs:
+    macluster-deploy (0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  macluster-deploy!
+
+BUNDLED WITH
+   1.14.6
